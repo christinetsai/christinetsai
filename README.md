@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there! 👋 Welcome to my Github
+
+My name is Christine Tsai, and I am currently pursuing a **MS in Computational Analysis and Public Policy at the University of Chicago**. Before pivoting to Public Policy, I spent six years as a Software Engineer in tech.
+
+*Projects to come*
 
 <!--
 **christinetsai/christinetsai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
